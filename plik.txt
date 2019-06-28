@@ -1,0 +1,3 @@
+[Janusz Kowalski; 23; 23; 1244
+, Grażyna Polska; 12; 24; 1242
+]
